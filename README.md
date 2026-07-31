@@ -64,7 +64,7 @@ piumi-ad-campaign/
 |---|---|
 | 이미지 생성 | ChatGPT (GPT-4o) |
 | 비디오 생성 | Kling AI 3.0 |
-| 오디오(TTS) | GPT-4o Mini TTS (nova) |
+| 오디오(TTS) | Suno, Vrew |
 | 편집 | VITA |
 
 자세한 선정 이유, 씬별 프롬프트 원문, 수정 전/후 비교는 [스토리보드 문서](./storyboard/piumi_storyboard.pdf)를 참고하세요.
